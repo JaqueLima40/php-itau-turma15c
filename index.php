@@ -23,3 +23,6 @@
 <h3>
   Guilherme Forte
 </h3>
+</h3>
+Jaqueline Lima
+</h3>
